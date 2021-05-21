@@ -200,7 +200,7 @@ header nav .form i {
 
 .landing {
   min-height: 100vh;
-  background-image: url("/images/landing.JPG");
+  background-image: url("/images/landing.jpg");
   background-size: cover;
   background-color: rgba(0, 0, 0, 0.5);
   position: relative;
@@ -341,7 +341,7 @@ header nav .form i {
 .design {
   padding-top: var(--section-padding);
   padding-bottom: var(--section-padding);
-  background-image: url("Owl/images/design-features.JPG");
+  background-image: url("Owl/images/design-features.jpg");
   background-size: cover;
   position: relative;
   display: flex;
@@ -565,7 +565,7 @@ header nav .form i {
 .stats {
   padding-top: var(--section-padding);
   padding-bottom: var(--section-padding);
-  background-image: url("Owl/images/stats.PNG");
+  background-image: url("Owl/images/stats.png");
   background-size: cover;
   background-color: black;
   position: relative;
@@ -745,7 +745,7 @@ header nav .form i {
 .quote {
   padding-top: var(--section-padding);
   padding-bottom: var(--section-padding);
-  background-image: url("Owl/images/quote.JPG");
+  background-image: url("Owl/images/quote.jpg");
   background-size: cover;
   position: relative;
   color: white;
@@ -906,7 +906,7 @@ header nav .form i {
 .subscribe {
   padding-top: var(--section-padding);
   padding-bottom: var(--section-padding);
-  background-image: url("Owl/images/subscribe.JPG");
+  background-image: url("Owl/images/subscribe.jpg");
   background-size: cover;
   position: relative;
 }
@@ -1074,7 +1074,7 @@ header nav .form i {
 footer {
   padding-top: calc(var(--section-padding) / 2);
   padding-bottom: calc(var(--section-padding) / 2);
-  background-image: url("Owl/images/subscribe.JPG");
+  background-image: url("Owl/images/subscribe.jpg");
   background-size: cover;
   position: relative;
   color: white;
